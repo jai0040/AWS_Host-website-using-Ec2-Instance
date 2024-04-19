@@ -32,7 +32,7 @@ Launch an AWS EC2 instance, install Apache web server, and upload your static we
 		-Click on OK<br>
 	Note :- if you get erron in mobaxtrem you should edit your security gruop inbound rules in SSH you select My IP and in HTTP you select custom <br><br>
 
-5. install httpd webserver in machine(used to run web app)<br>
+5. install http webserver in machine(used to run web app)<br>
 	```1 pwd <br>
 	2 sudo su<br>
 	3 yum update -y<br>
